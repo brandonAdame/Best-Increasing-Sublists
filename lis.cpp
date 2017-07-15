@@ -1,5 +1,3 @@
-// CSCI 2530
-// Assignment: 7
 // Author:     Brandon Gachuz
 // File:       lis.cpp
 // Tab stops:  4
